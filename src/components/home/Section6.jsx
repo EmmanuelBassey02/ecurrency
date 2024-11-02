@@ -21,7 +21,7 @@ function Section6() {
             ].map((item) => (
               <li key={item} className="flex items-center gap-2 md:mtext-base text-sm text-[#21384299]">
                 ✔️
-                <span className="text-base">{item}</span>
+                <span className="md:text-base text-sm">{item}</span>
               </li>
             ))}
           </ul>
