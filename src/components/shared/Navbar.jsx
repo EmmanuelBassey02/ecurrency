@@ -42,7 +42,7 @@ const Navbar = () => {
 
       {/* Mobile Navigation Menu */}
       <ul
-        className={`fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-300 bg-[#f1f3f1] duration-300 md:hidden ${
+        className={`fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-300  bg-white/80 backdrop-blur duration-300 md:hidden ${
           navOpen ? 'translate-x-0' : '-translate-x-full'
         }`}
       >
