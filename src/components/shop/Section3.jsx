@@ -16,7 +16,7 @@ function Section3() {
 
         <div className='h-[200px] w-[280px] bg-[#FBF9F2] shadow m-auto'>
           <div className='p-4'>
-            <p className='italic md:text-base text-sm text-[#4D533C] mb-10'>I work shift work. Swinging from days to nights is sometimes brutal for sleep. Thank you Sleepstiq.</p>
+            <p className='italic md:text-base text-sm text-[#4D533C] mb-4'>I work shift work. Swinging from days to nights is sometimes brutal for sleep. Thank you Sleepstiq.</p>
             <h3 className='font-bold md:text-lg text-base text-[#4D533C] mb-2'>Eunice Oliver</h3>
               <img src={stars} alt="stars" className='h-4' />
           </div>

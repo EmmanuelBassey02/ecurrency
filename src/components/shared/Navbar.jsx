@@ -47,7 +47,7 @@ const Navbar = () => {
         }`}
       >
         <Link to="/" className="w-[100px] pl-3 pt-6">
-          <img src={logo} alt="logo" className="h-[60px] md:h-[70px] pl-6" />
+          <img src={logo} alt="logo" className="h-[50px] md:h-[70px] pl-6" />
         </Link><br />
 
         {navItems.map(({ id, text, path }) => (

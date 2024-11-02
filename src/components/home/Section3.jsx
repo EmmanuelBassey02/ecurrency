@@ -9,7 +9,7 @@ function Section3() {
             <div className="space-y-3 max-w-[440px] m-auto">
               <h2 className="text-sm font-semibold text-gray-600">Our Amazing Story</h2>
               <h1 className="text-2xl md:text-4xl font-bold">10k+ Happy Customers</h1><br />
-              <p className="text-[#21384299] text-base">
+              <p className="text-[#21384299] text-base sm:mt-0 -mt-3">
                   There's no secret sauce, no wizard behind the curtain. What makes Aerolab tick is an interdisciplinary team with a
                   framework that fosters candid collaboration.
               </p>

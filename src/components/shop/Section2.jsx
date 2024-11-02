@@ -38,14 +38,20 @@ function Section2() {
                   </ul>
 
                   <div className="flex items-center justify-between mb-4 max-w-[190px]">
-                    <div className="text-2xl font-bold">USD $0</div>
-                    <div className="flex items-center">
-                        <span className="mr-2">Unit</span>
-                        <select className="border rounded px-2 py-1">
-                          <option>2</option>
-                          <option>3</option>
-                          <option>4</option>
-                        </select>
+                    <div className="space-y-2">
+                      <p className='font-bold'>Price</p>
+                      <p className='text-neutral-600'>USD $50</p>
+                    </div>
+
+                    <div className="flex items-center ">
+                        <p className="mr-2">Unit</p>
+                       <div>
+                          <select className="border rounded px-2 py-1">
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                          </select>
+                        </div>
                     </div>
                   </div>
                   <button className="md:w-[180px] w-[120px] bg-red-500 text-white py-2 rounded hover:bg-red-600 transition duration-300">
