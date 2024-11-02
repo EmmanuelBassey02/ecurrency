@@ -15,7 +15,7 @@ function Section1() {
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-navy-900 leading-tight mb-4 text-[#12305B]">
                 Relax & Rest
               </h1>
-              <p className="text-lg sm:text-xl text-[#12305B] mb-6 w-full">
+              <p className="text-base md:text-xl text-[#12305B] mb-6 w-full">
                 With the aid of our Melatonin Sleepstiq, we can assure you that you can get quality sleep.
               </p>
 

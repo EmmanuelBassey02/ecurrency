@@ -3,7 +3,7 @@ import React from 'react'
 function Section1() {
   return (
     <>
-       <section className="home-bg bg-[#FBF9F2] md:h-[520px] xl:h-[555px] h-[320px] md:px-[4vw] px-[3vw] md:pt-[70px] lg:pt-[150px] pt-[100px]">
+       <section className="home-bg bg-[#FBF9F2] md:h-[520px] xl:h-[555px] h-[360px] md:px-[4vw] px-[3vw] md:pt-[70px] lg:pt-[150px] pt-[50px]">
          <div className="text-left text-[#12305B] space-y-6">
             <p className="text-xl md:text-2xl">We're here to help you</p>
             <h1 className="text-4xl md:text-6xl font-bold mb-4">How can we assist?</h1>

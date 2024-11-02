@@ -17,7 +17,7 @@ function Section5() {
         </div>
         <div className="w-full max-w-[400px] space-y-6 m-auto">
           <h1 className="text-2xl md:text-4xl font-bold text-[#12305B]">Shop Now</h1>
-          <p className="text-base text-[#21384299] md:mb-0 -mb-1">
+          <p className="md:mtext-base text-sm text-[#21384299] md:mb-0 -mb-1">
             Our Personal Diffuser is an aromatherapy device that contains a blend of melatonin, lavender, and
             chamomile. A few breaths of our plant-based essential oil mist will mellow you out, quiet the mind,
             and lull you to bed.

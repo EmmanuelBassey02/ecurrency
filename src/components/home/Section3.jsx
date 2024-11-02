@@ -8,8 +8,8 @@ function Section3() {
           <div className="flex flex-wrap gap-16 justify-between items-center max-w-5xl m-auto">
             <div className="space-y-3 max-w-[440px] m-auto">
               <h2 className="text-sm font-semibold text-gray-600">Our Amazing Story</h2>
-              <h1 className="text-2xl md:text-4xl font-bold">10k+ Happy Customers</h1><br />
-              <p className="text-[#21384299] text-base sm:mt-0 -mt-3">
+              <h1 className="text-2xl md:text-4xl font-bold">10k+ Happy Customers</h1>
+              <p className="text-[#21384299] md:text-base text-sm sm:mt-0 -mt-3">
                   There's no secret sauce, no wizard behind the curtain. What makes Aerolab tick is an interdisciplinary team with a
                   framework that fosters candid collaboration.
               </p>
@@ -23,7 +23,7 @@ function Section3() {
 
             <div className="bg-[#FBF9F2] m-auto p-6 rounded-lg shadow max-w-sm text-[#4D533C] font-it" style={{ boxShadow: '10px 15px 40px 10px rgba(0, 0, 0, 0.2)' }}>
             <div className="mb-6 ">
-                <p className="text-[#4D533C] italic mb-4">
+                <p className="text-[#4D533C] italic mb-4 md:text-base text-sm">
                 "I'm a very anxious person but use this and feel so relaxed and sleep way better now with the aid of sleepstiq."
                 </p>
                 <div className="flex items-center">

@@ -9,17 +9,17 @@ function Section6() {
           <h1 className="text-2xl md:text-4xl font-bold text-[#0A2472]">
             Our Mission
           </h1>
-          <p className="text-base text-[#21384299] leading-relaxed">
+          <p className="md:mtext-base text-sm text-[#21384299] leading-relaxed">
             We started Sleepstiq with 1 simple goal: to be your best friend at bedtime. We, just like you, deal with stress, unease, and trouble sleeping from a number of silly things like school, work, screens, numbers, and people. That&apos;s why we created products that aim to -
           </p>
-          <ul className="space-y-0 text-sm">
+          <ul className="space-y-0  md:mtext-base text-sm">
             {[
               "Promote Calm",
               "Support Sleep",
               "Reduce Stress",
               "Aid Relaxation"
             ].map((item) => (
-              <li key={item} className="flex items-center gap-2 text-[#21384299]">
+              <li key={item} className="flex items-center gap-2 md:mtext-base text-sm text-[#21384299]">
                 ✔️
                 <span className="text-base">{item}</span>
               </li>

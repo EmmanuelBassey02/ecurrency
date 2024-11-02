@@ -32,9 +32,9 @@ export default function Footer() {
             <h3 className="font-semibold text-base mb-3 text-[#FFFFFF]">CONTACT</h3>
             <div className="space-y-2">
               <p className="text-[#ABABAB] md:text-[15px] text-sm">Phone</p>
-              <p className="font-semibold text-white">+234 708 507 3128</p>
+              <p className="font-[500] text-white">+234 708 507 3128</p>
               <p className="text-[#ABABAB] md:text-[15px] text-sm mt-4">Address</p>
-              <p className='font-semibold text-white max-w-[150px]'>16, Ogindipe Close, Upston Close</p>
+              <p className='font-[500] text-white max-w-[150px]'>16, Ogindipe Close, Upston Close</p>
             </div>
           </div>
 
